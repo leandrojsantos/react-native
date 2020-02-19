@@ -10,4 +10,4 @@ expo
 
 expo start
 
-https://expo.io/learn
+* https://expo.io/learn
