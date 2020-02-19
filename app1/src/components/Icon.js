@@ -10,7 +10,7 @@ class Icon extends Component {
 
                     <Image
                         source={{
-                        uri: 'https://br.stockfresh.com/zooms/stockfresh_id4859227_a32974.jpg'
+                        uri: 'http://www.tudodesenhos.com/uploads/images/9726/formiga-carregando-pedra.jpg'
                     }}
                         style={{
                         width: 100,
