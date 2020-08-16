@@ -1,7 +1,7 @@
 {
     "expo": {
-        "name": "Blank Template",
-        "slug": "app1",
+        "name": "Jokenpo",
+        "slug": "Jokenpo",
         "privacy": "public",
         "sdkVersion": "36.0.0",
         "platforms": [
