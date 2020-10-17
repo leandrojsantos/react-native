@@ -36,6 +36,7 @@ O layout da aplicação
   <img alt="jokenpo" title="#jokenpo" src="./images/1.jpeg" width="300px">
 </p>
 
+<p align="center">
   <img alt="jokenpo" title="#jokenpo" src="./images/2.jpeg" 
   width="300px">
 </p>
@@ -44,6 +45,7 @@ O layout da aplicação
   width="300px">
 </p>
 
+<p align="center">
   <img alt="jokenpo" title="#jokenpo" src="./images/4.jpeg" 
   width="300px">
 </p>
