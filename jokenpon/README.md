@@ -25,7 +25,7 @@ Pedra, papel e tesoura, também chamado no Brasil de joken po é um jogo simples
 
 ## ⚙️ Funcionalidades
 
-- [x] Feito em react-native com expo e para testa seu desepenho quanto react-native puro 
+- [x] Feito em react-native com expo para testa e compara seu desepenho quanto react-native puro 
 
 ---
 
@@ -33,19 +33,19 @@ Pedra, papel e tesoura, também chamado no Brasil de joken po é um jogo simples
 
 O layout da aplicação 
 
-  <img alt="jokenpo" title="#jokenpo" src="./images/1.jpeg" width="100px">
+  <img alt="jokenpo" title="#jokenpo" src="./images/1.jpeg" width="300px">
 </p>
 
   <img alt="jokenpo" title="#jokenpo" src="./images/2.jpeg" 
-  width="100px">
+  width="300px">
 </p>
 
   <img alt="jokenpo" title="#jokenpo" src="./images/3.jpeg" 
-  width="100px">
+  width="300px">
 </p>
 
   <img alt="jokenpo" title="#jokenpo" src="./images/4.jpeg" 
-  width="100px">
+  width="300px">
 </p>
 
 
