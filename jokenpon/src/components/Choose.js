@@ -142,7 +142,7 @@ const styles = StyleSheet.create({
         marginTop: 10
     },
     txtResultado: {
-        fontSize: 50,
+        fontSize: 25,
         alignItems: 'center',
         fontWeight: 'bold',
         color: '#fff',
